@@ -1,0 +1,71 @@
+body {
+	padding: 0;
+	margin: 0;
+}
+.topo {
+	background-color: #ff0000;
+	height: 76px;
+	margin-top: -4px;
+}
+.cor {
+	color: black;
+}
+.menu {
+	color: black;
+	margin-left: 80px;
+}
+.menu li, ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+.menu li {
+	float: left;
+	line-height: 76px;
+	padding-left: 25px;
+	padding-right: 25px;
+}
+.menu li:hover {
+	background-color: #d60b0b;
+	cursor: pointer;
+}
+.login {
+	float: right;
+	margin-right: 80px;
+}
+.login li, ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+.login li {
+	float: left;
+	line-height: 76px;
+	padding-left: 25px;
+	padding-right: 25px;
+}
+.login li:hover {
+	background-color: #d60b0b;
+	cursor: pointer;
+}
+.image {
+	width: 1311px;
+	height: 400px;
+}
+.imageface {
+	width: 40px;
+}
+.imageface:hover {
+	width: 60px;
+	height: 40px;
+	cursor: pointer;
+}
+.twitter {
+	float: left;
+	width: 40px;
+}
+.twitter:hover {
+	width: 60px;
+	height: 40px;
+	cursor: pointer;
+}
