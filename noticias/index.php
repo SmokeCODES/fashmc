@@ -69,7 +69,7 @@
 	<div class="escrita">
 		<h1 class="aiso">
 			<i>
-				Publicações
+				Noticias
 			</i>
 		</h1>
 		<img src="../assets/images/publicação1.png" class="publicação1"><br/><h2><i class="em em-crown"></i><samu class="samu1"> [Designer]</samu> samuemito <i class="em em-crown"></i></h2><br/><br/><br/><br/>
