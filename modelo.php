@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Loja | FashMC</title>
-	<link rel="stylesheet" type="text/css" href="assets/css/loja.css">
+	<title>Noticias | FashMC</title>
+	<link rel="stylesheet" type="text/css" href="../loja/assets/css/loja.css">
 </head>
 <body>
 	<img src="../assets/images/logo.png" class="image">
@@ -49,7 +49,7 @@
 		<img src="../assets/images/teste2.png" class="imageface"><br/>
 	</a>
 	<a href="">
-		<img src="../assets/images/twitter.jpg" class="twitter">
+		<img src="../assets/images/twitter.png" class="twitter">
 	</a>
 </body>
 </html>

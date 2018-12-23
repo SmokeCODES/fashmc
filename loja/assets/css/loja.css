@@ -49,11 +49,13 @@ body {
 	cursor: pointer;
 }
 .image {
-	width: 1311px;
+	width: 100%;
 	height: 400px;
 }
 .imageface {
+	position: fixed;
 	width: 40px;
+	margin-top: -100px;
 }
 .imageface:hover {
 	width: 60px;
@@ -61,6 +63,8 @@ body {
 	cursor: pointer;
 }
 .twitter {
+	position: fixed;
+	margin-top: -55px;
 	float: left;
 	width: 40px;
 }
@@ -95,3 +99,21 @@ body {
 .escrita h2 {
 	float: left;
 }
+.ricardo {
+	color: #aa00aa;
+}
+.container {
+	display: flex;
+	flex-direction: row;
+	margin-top: 75px;
+}
+.container img {
+	flex: 1;
+	margin: 20px;
+	padding: 20px;
+}
+/* FACTION : NATALINO*/
+/* VIP 1 : Neve*/
+/* VIP 2 : TRENO*/
+/* VIP 3 : NEVASCA*/
+/* VIP 4 : NOEL*/
